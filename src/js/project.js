@@ -31,7 +31,7 @@ var questions = [
     },
     {
         question: "Warum ist die Atruvia AG einer der größten Kunden der Deutschen Post?",
-        options: ["Hohe Nachfrage nach Briefmarken", "Nutzung von Postdienstleistungen für den Versand von Unterlagen", "Exklusiver Vertrag für Paketlieferungen", "Keine Verbindung zur Deutschen Post"],
+        options: ["Hohe Nachfrage nach Briefmarken", "Nutzung von Postdienstleistungen für den Versand von Unterlagen", "Exklusiver Vertrag für Paketlieferungen"],
         correctAnswerIndex: 1
     },
     {
