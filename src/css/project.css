@@ -16,13 +16,15 @@ body {
     background-color: #eeeeea;
     background-image: url('Background.jpg');
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .wrapper {
-    margin-top: 250px;
-    display: flex;
+    margin-left: 35%;
+    margin-top: 270px;
+    position: fixed;
     align-items: center;
     justify-content: center;
 }
@@ -81,7 +83,7 @@ input:checked + label {
     outline: none;
     cursor: pointer;
     font-size: 18px;
-    line-height: 10px;
+    line-height: 20px;
     font-weight: 500;
     border-radius: 20px;
     padding: 13px 23px;
@@ -90,7 +92,7 @@ input:checked + label {
     color: #222222;
     margin-bottom: 7px;
     width: 300px;
-    height: 50px;
+    height: 5 0px;
 }
 
 .button-style:hover {
