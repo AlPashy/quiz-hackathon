@@ -1,3 +1,3 @@
 function playGame() {
-    window.location.href = "index.html"; // Redirect to index.html
+    window.location.href = "Quizz.html"; // Redirect to index.html
 }
