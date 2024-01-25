@@ -1,8 +1,8 @@
 var questions = [
     {
-        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
-        options: ["Mehr", "Weniger"],
-        correctAnswerIndex: 0   
+        question: "Welche Branche ist das Haupttätigkeitsfeld der Atruvia AG?",
+        options: ["Lebensmittel", "Technologie und Software", "Gesundheitswesen", "Bergbau und Rohstoffe"],
+        correctAnswerIndex: 1
     },
     {
         question: "Wie viel Mitarbeiter hat die Atruvia?",
@@ -20,7 +20,7 @@ var questions = [
         correctAnswerIndex: 2
     },
     {   
-        question: "Wie viele Azubis gibt es insgesamt an allen Standorten?",
+        question: "Wann war die Fusion zwischen der Fiducia & GAD?",
         options: ["2005", "2010", "2015"],
         correctAnswerIndex: 2  
     },
@@ -31,13 +31,13 @@ var questions = [
     },
     {
         question: "Warum ist die Atruvia AG einer der größten Kunden der Deutschen Post?",
-        options: ["Hohe Nachfrage nach Briefmarken", "Weniger"],
-        correctAnswerIndex: 0   
+        options: ["Hohe Nachfrage nach Briefmarken", "Nutzung von Postdienstleistungen für den Versand von Unterlagen", "Exklusiver Vertrag für Paketlieferungen", "Keine Verbindung zur Deutschen Post"],
+        correctAnswerIndex: 1
     },
     {
-        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
-        options: ["Mehr", "Weniger"],
-        correctAnswerIndex: 0   
+        question: "Welche bekannten Kunden oder Partner hat die Atruvia AG?",
+        options: ["Tesla", "Microsoft", "Volksbanken", "Alle der oben genannten"],
+        correctAnswerIndex: 2 
     }
 ];
 
