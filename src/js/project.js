@@ -10,16 +10,38 @@ var questions = [
         correctAnswerIndex: 2
     },
     {
-        question: "Wann kam Julius Caesar zur Welt?",
-        options: ["100BC", "140BC", "220BC"],
-        correctAnswerIndex: 0   
+        question: "Was ist der größte Standort der Atruvia AGs",
+        options: ["München", "Karlsruhe", "Münster"],
+        correctAnswerIndex: 1 
     },
     {
-        question: "Welches davon ist kein Shakespeare Play?",
-        options: ["Alechmist", "Macbeth", "Hamlet"],
-        correctAnswerIndex: 0   
+        question: "Wie viele Azubis gibt es insgesamt an allen Standorten?",
+        options: ["50", "100", "200", "300"],
+        correctAnswerIndex: 2
     },
     {   
+        question: "Wie viele Azubis gibt es insgesamt an allen Standorten?",
+        options: ["2005", "2010", "2015"],
+        correctAnswerIndex: 2  
+    },
+    {
+        question: "Welche Arten von Dienstleistungen oder Produkte biete die Atruvia AG an?",
+        options: ["Automobile", "Medizinische Geräte", "Softwarelösungen für Compliance und Datenschutz"],
+        correctAnswerIndex: 2
+    },
+    {
+        question: "Warum ist die Atruvia AG einer der größten Kunden der Deutschen Post?",
+        options: ["Hohe Nachfrage nach Briefmarken", "Weniger"],
+        correctAnswerIndex: 0   
+    },
+    {
+        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
+        options: ["Mehr", "Weniger"],
+        correctAnswerIndex: 0   
+    }
+];
+
+var questionsSecond = [ {
         question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
         options: ["Mehr", "Weniger"],
         correctAnswerIndex: 0   
@@ -39,6 +61,26 @@ var questions = [
         options: ["Mehr", "Weniger"],
         correctAnswerIndex: 0   
     },
+    {
+        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
+        options: ["Mehr", "Weniger"],
+        correctAnswerIndex: 0   
+    },
+    {
+        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
+        options: ["Mehr", "Weniger"],
+        correctAnswerIndex: 0   
+    },
+    {
+        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
+        options: ["Mehr", "Weniger"],
+        correctAnswerIndex: 0   
+    },
+    {
+        question: "Verwaltet die Atruvia mehr, oder weniger als 70.000.000 Konten?",
+        options: ["Mehr", "Weniger"],
+        correctAnswerIndex: 0   
+    }
 ];
 var currentQuestionIndex = 0;
 document.addEventListener('DOMContentLoaded', function () {
